@@ -2,3 +2,6 @@
 Sample project for python workshop
 
 Full description to be completed...
+
+(With extra information)
+
